@@ -1,0 +1,111 @@
+﻿
+div 
+{
+border-radius: 5px;
+border: 5px solid rgb(9, 49, 124);	
+background-color: rgb(238, 196, 10);
+height: 10px;
+text-align: center;
+font-family: Garamond, serif;
+}
+
+#div1 
+{
+border-radius: 50px;
+border: 5px solid rgb(15, 0, 0);	
+background-color: rgb(10, 192, 238);
+height: 150px;
+text-align: center;
+font-family: Garamond, serif;
+}
+
+#div2 
+{
+border-radius: 50px;
+border: 5px solid rgb(1, 8, 0);	
+background-color: rgb(245, 44, 9);
+height: 150px;
+text-align: center;
+font-family: Garamond, serif;
+}
+
+#div3 
+{
+border-radius: 50px;
+border: 5px solid rgb(1, 8, 0);	
+background-color: rgb(97, 104, 1);
+height: 150px;
+text-align: center;
+font-family: Garamond, serif;
+}
+
+#p1 
+{
+display: inline;
+position: relative;
+margin-left: 138px;
+}
+
+#p2 
+{
+display: inline;
+position: relative;
+margin-left: 10px;
+color: aqua;
+}
+
+
+#p3
+{
+border-radius: 5px;
+border: 2px solid rgb(0, 3, 8);	
+background-color: rgb(10, 238, 21);
+height: 50	px;
+text-align: left;
+font-family: Garamond, serif;
+}
+
+#div 
+{
+background-color: rgba(3, 58, 129, 0.521);
+display: unset;
+position: relative;
+margin-left: 300px;
+margin-top: 10px;
+}
+
+#title 
+{
+display: inline;
+text-align: center;
+position: relative;
+margin-left: 50px;
+}
+
+#body 
+{
+display: inline;
+position: relative;
+margin-left: 20px;
+
+}
+
+#head 
+{
+display: inline;
+position: relative;
+margin-left: 165px;
+}
+
+#html
+{	
+width: 1000px;
+position: relative;
+margin-left: 200px;
+
+}
+
+.space 
+{
+opacity: 0;
+}
