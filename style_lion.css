@@ -1,0 +1,45 @@
+#body 
+{
+    background:url(lev01.jpg);
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    font-family: 'Snell Roundhand', cursive;
+    text-align: justify;
+}
+h2 
+{
+    text-align: center;
+    color: rgb(66, 44, 190);
+}
+
+h1 
+{
+    text-align: center;
+    color: rgb(214, 7, 7);
+}
+.center_img 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+a:link
+{
+   color:#f105dd;
+   font-size:20px;
+ }
+ 
+ a:visited
+ {
+   color:#015df0;
+ }
+ 
+ a:hover
+ {
+   color:#f10000;
+ }
+
+ 
